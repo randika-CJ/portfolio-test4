@@ -47,7 +47,6 @@ randika@portfolio:~$ █
 </div>
 
 
-
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Engineer+%7C+ML+Enthusiast;Computer+Vision+Specialist;Building+AI+Solutions+for+Real-World+Problems)](https://git.io/typing-svg)
 </div>
