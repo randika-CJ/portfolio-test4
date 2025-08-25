@@ -13,10 +13,13 @@ randika@portfolio:~$ whoami && echo "Welcome to my digital workspace!"
 <td align="left" width="60%">
 
 <!-- First Animation Set: Professional Roles -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&vCenter=true&multiline=true&width=450&height=80&lines=🔥+ML+Enthusiast;📊+Data+Scientist;⚗️+Research+Innovator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&vCenter=true&multiline=false&width=450&height=30&lines=🔥+ML+Enthusiast;📊+Data+Scientist;⚗️+Research+Innovator&repeat=false)
+
+<!-- Gap for visual separation -->
+<br><br>
 
 <!-- Second Animation Set: Featured Projects (with delay) -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=58A6FF&vCenter=true&multiline=true&width=450&height=80&lines=⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true&delayStart=6000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=58A6FF&vCenter=true&multiline=false&width=450&height=30&lines=⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=false&delayStart=8000)
 
 </td>
 <td align="center" width="40%">
