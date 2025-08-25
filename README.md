@@ -12,7 +12,7 @@
 </td>
 <td width="62%" align="center" valign="middle" style="border: none; padding: 0;">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" alt="Developer working animation">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" alt="Developer working animation">
 
 </td>
 </tr>
