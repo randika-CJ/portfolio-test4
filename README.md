@@ -9,7 +9,7 @@
 <tr>
 <td width="38%" valign="top" align="left" style="border: none; padding: 10;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=180&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;+  +🌍+to+Real+World&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=180&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+to+Real+World&repeat=true)](https://git.io/typing-svg)
 
 </td>
 <td width="62%" align="center" valign="middle" style="border: none; padding: 0;">
@@ -35,9 +35,7 @@
 <td>
 
 ```bash
-randika@portfolio:~$ echo "Ready to innovate! 🚀"
-Ready to innovate! 🚀
-randika@portfolio:~$ █
+randika@portfolio:~$ █echo "Ready to innovate! 🚀"
 ```
 
 </td>
