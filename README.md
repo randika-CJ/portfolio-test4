@@ -11,7 +11,7 @@
 
 
 ```bash
-<font size="2">randika@portfolio:~$ echo "Ready to innovate! 🚀"█</font>
+randika@portfolio:~$ echo "Ready to innovate! 🚀"█
 ```
 > <sub>*"Transforming complex data into intelligent solutions that drive real-world impact"*</sub>
 
