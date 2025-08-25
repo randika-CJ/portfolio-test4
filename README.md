@@ -3,6 +3,8 @@
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer%0A🔥+ML+Enthusiast%0A⚗️+Research+Innovator%0A👁️+Computer+Vision+Specialist%0A🚀+Building+AI+Solutions;⚡+CSM-SR%0A🎯+IntellijSense%0A🛠️+Code+Crafters&repeat=true)
+
 <table>
 <tr><td colspan="2">
 ```bash
@@ -12,7 +14,7 @@ randika@portfolio:~$ whoami && echo "Welcome to my digital workspace!"
 <tr>
 <td align="left" width="60%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer%0A🔥+ML+Enthusiast%0A⚗️+Research+Innovator%0A👁️+Computer+Vision+Specialist%0A🚀+Building+AI+Solutions;⚡+CSM-SR%0A🎯+IntellijSense%0A🛠️+Code+Crafters&repeat=true)
+
 
 </td>
 <td align="center" width="40%">
