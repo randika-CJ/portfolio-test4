@@ -7,7 +7,7 @@
 <div align="center">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="38%" valign="top" align="left" style="border: none; padding: 0;">
+<td width="38%" valign="top" align="left" style="border: none; padding: 10;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=180&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+to+Real+World&repeat=true)](https://git.io/typing-svg)
 
