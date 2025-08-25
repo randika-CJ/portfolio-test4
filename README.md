@@ -20,7 +20,19 @@ randika@portfolio:~$ ./introduce.sh
 
 <td align="left" width="60%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer%0A🔥+ML+Enthusiast%0A⚗️+Research+Innovator%0A👁️+Computer+Vision+Specialist%0A🚀+Building+AI+Solutions;⚡+CSM-SR%0A🎯+IntellijSense%0A🛠️+Code+Crafters&repeat=true)
+<div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=3000&pause=3000&color=00F5A0&vCenter=true&multiline=true&width=450&height=120&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions&repeat=false)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=2000&color=58A6FF&vCenter=true&multiline=true&width=450&height=80&lines=⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=false&delayStart=20000)
+
+</div>
+
+<script>
+setInterval(function() {
+    location.reload();
+}, 35000);
+</script>
 
 </td>
 
