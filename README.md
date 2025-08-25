@@ -9,9 +9,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1500&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=200&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+for+Real+World+Problems&repeat=true)](https://git.io/typing-svg)
 
+<sub><sub>
 ```bash
-<sub><sub>randika@portfolio:~$ echo "Ready to innovate! 🚀"█</sub></sub>
-```
+randika@portfolio:~$ echo "Ready to innovate! 🚀"█
+```</sub></sub>
 > <sub><sub><sub>*"Transforming complex data into intelligent solutions that drive real-world impact"*</sub></sub></sub>
 
 </td>
