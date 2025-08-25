@@ -1,59 +1,48 @@
 # Hi there! 👋 I'm Randika Prabashwara
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%">
-
-
 <table>
-
-<tr><td colspan="2">
-
-```bash
-
-randika@portfolio:~$ ./introduce.sh
-
-```
-
-</td></tr>
-
 <tr>
+<td width="37.5%" valign="top">
 
-<td align="left" width="60%">
+## 🌟 **Hi there! 👋 I'm Randika Prabashwara**
 
-<div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true)](https://git.io/typing-svg)
-
-</td>
-
-<td align="center" width="40%">
-
-<img width="180" src="https://avatars.githubusercontent.com/u/randikapra?v=4" style="border-radius: 50%; border: 4px solid #00F5A0;">
-
-Randika Prabashwara  
-
-Ready to Innovate 🚀
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true" alt="Typing SVG" />
+</div>
 
 </td>
+<td width="62.5%" align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="80%" alt="Developer working animation">
+
+</td>
 </tr>
+</table>
+</div>
 
-<tr><td colspan="2">
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img width="180" src="https://avatars.githubusercontent.com/u/randikapra?v=4" style="border-radius: 50%; border: 4px solid #00F5A0;">
+<br>
+<strong>Randika Prabashwara</strong><br>
+<em>Ready to Innovate</em> 🚀
+</td>
+</tr>
+<tr>
+<td>
 
 ```bash
-
 randika@portfolio:~$ echo "Ready to innovate! 🚀"
-
 Ready to innovate! 🚀
-
 randika@portfolio:~$ █
-
 ```
 
-</td></tr>
-
+</td>
+</tr>
 </table>
-
 </div>
 
 
