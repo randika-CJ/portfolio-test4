@@ -5,7 +5,9 @@
 <tr>
 <td width="38%" valign="top" align="left">
 
-# 🌟 **Hi there! 👋 I'm Randika Prabashwara**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=4000&pause=1000&color=FFD700&center=false&vCenter=true&width=450&height=40&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true)](https://git.io/typing-svg)
 
@@ -42,7 +44,6 @@ randika@portfolio:~$ █
 </tr>
 </table>
 </div>
-
 
 
 
