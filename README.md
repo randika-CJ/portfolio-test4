@@ -35,7 +35,7 @@
 <td>
 
 ```bash
-randika@portfolio:~$ █echo "Ready to innovate! 🚀"
+randika@portfolio:~$ echo "Ready to innovate! 🚀"█
 ```
 
 </td>
