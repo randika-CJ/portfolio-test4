@@ -24,22 +24,6 @@ randika@portfolio:~$ echo "Ready to innovate! 🚀"█
 </tr>
 </table>
 
-
-<div align="center">
-
-</div>
-
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Engineer+%7C+ML+Enthusiast;Computer+Vision+Specialist;Building+AI+Solutions+for+Real-World+Problems)](https://git.io/typing-svg)
-
-</div>
-
-**Data Science Engineer | Machine Learning Enthusiast | Computer Vision Specialist**
-
-> *"Transforming complex data into intelligent solutions that drive real-world impact"*
-
 <div align="center">
     <h2>
         <a href="https://randikapra.github.io">
