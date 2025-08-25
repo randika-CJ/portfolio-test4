@@ -43,7 +43,7 @@ randika@portfolio:~$ echo "Ready to innovate! 🚀"█
         </a>
     </h2>
 </div>
-
+</div>
 ---
 
 ## 🚀 Quick Overview
