@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0";">
 <tr>
 <td width="38%" valign="middle" align="left" style="border: none; padding: 0;">
 
