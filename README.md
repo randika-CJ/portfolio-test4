@@ -1,20 +1,18 @@
 # Hi there! 👋 I'm Randika Prabashwara
 
 <div align="center">
-<table>
+<table width="100%" border="0">
 <tr>
-<td width="37.5%" valign="top">
+<td width="38%" valign="top" align="left">
 
-## 🌟 **Hi there! 👋 I'm Randika Prabashwara**
+# 🌟 **Hi there! 👋 I'm Randika Prabashwara**
 
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true)](https://git.io/typing-svg)
 
 </td>
-<td width="62.5%" align="center">
+<td width="62%" align="center" valign="middle">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="80%" alt="Developer working animation">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" alt="Developer working animation">
 
 </td>
 </tr>
@@ -44,6 +42,7 @@ randika@portfolio:~$ █
 </tr>
 </table>
 </div>
+
 
 
 
