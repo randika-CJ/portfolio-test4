@@ -22,9 +22,8 @@ randika@portfolio:~$ ./introduce.sh
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=3000&pause=2000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=150&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=2000&color=58A6FF&center=false&vCenter=true&multiline=true&width=450&height=100&lines=⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters)](https://git.io/typing-svg)
 </td>
 
 <td align="center" width="40%">
