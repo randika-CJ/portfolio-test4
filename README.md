@@ -1,25 +1,32 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
+<br>
+<br>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="38%" valign="top" align="left" style="border: none; padding: 10;">
+<td width="38%" valign="middle" align="left" style="border: none; padding: 0;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=180&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+for+Real+World+Problems&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=200&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+to+Real+World&repeat=true)](https://git.io/typing-svg)
+
+```bash
+randika@portfolio:~$ echo "Ready to innovate! 🚀"
+Ready to innovate! 🚀
+randika@portfolio:~$ █
+```
 
 </td>
 <td width="62%" align="center" valign="middle" style="border: none; padding: 0;">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" alt="Developer working animation">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="80%" alt="Developer working animation">
 
 </td>
 </tr>
 </table>
-</div>
 
 <div align="center">
 <table>
@@ -28,16 +35,7 @@
 <img width="180" src="https://avatars.githubusercontent.com/u/randikapra?v=4" style="border-radius: 50%; border: 4px solid #00F5A0;">
 <br>
 <strong>Randika Prabashwara</strong><br>
-<em>Ready to Innovate</em> 🚀
-</td>
-</tr>
-<tr>
-<td>
-
-```bash
-randika@portfolio:~$ echo "Ready to innovate! 🚀"█
-```
-
+<em>Data Science Engineer & ML Enthusiast</em> 
 </td>
 </tr>
 </table>
