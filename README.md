@@ -1,11 +1,13 @@
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="38%" valign="top" align="left" style="border: none; padding: 0;"
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=28&duration=4000&pause=1000&color=FFD700&center=false&vCenter=true&width=450&height=40&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
-
-<br>
+<td width="38%" valign="top" align="left" style="border: none; padding: 0;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=450&height=160&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions&repeat=true)](https://git.io/typing-svg)
 
@@ -42,7 +44,6 @@ randika@portfolio:~$ █
 </tr>
 </table>
 </div>
-
 
 
 <div align="center">
