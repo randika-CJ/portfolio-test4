@@ -18,7 +18,7 @@ randika@portfolio:~$ whoami && echo "Welcome to my digital workspace!"
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=58A6FF&vCenter=true&multiline=false&width=450&height=30&lines=⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=false&delayStart=8000)
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&vCenter=true&multiline=false&width=450&height=30&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions+for+Real-World+Problems;⚡+CSM-SR;🎯+IntellijSense;🛠️+Code+Crafters&repeat=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=2000&color=00F5A0&vCenter=true&multiline=true&width=450&height=160&lines=📊+Data+Science+Engineer%0A🔥+ML+Enthusiast%0A⚗️+Research+Innovator%0A👁️+Computer+Vision+Specialist%0A🚀+Building+AI+Solutions;⚡+CSM-SR%0A🎯+IntellijSense%0A🛠️+Code+Crafters&repeat=true)
 </td>
 <td align="center" width="40%">
 <img width="180" src="https://avatars.githubusercontent.com/u/randikapra?v=4" style="border-radius: 50%; border: 4px solid #00F5A0;">
