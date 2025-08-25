@@ -3,7 +3,7 @@
 <tr>
 <td width="38%" valign="top" align="left" style="border: none; padding: 0;"
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=4000&pause=1000&color=FFD700&center=false&vCenter=true&width=150&height=40&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=4000&pause=1000&color=FFD700&center=false&vCenter=true&width=450&height=40&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
 
 <br>
 
