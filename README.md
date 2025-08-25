@@ -14,7 +14,7 @@ randika@portfolio:~$ whoami && echo "Welcome to my digital workspace!"
 
 <!-- First Animation Set: Professional Roles -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&vCenter=true&multiline=true&width=500&height=60&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions+for+Real-World+Problems&repeat=false)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1000&color=00F5A0&vCenter=true&multiline=true&width=500&height=60&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions+for+Real-World+Problems)
 <!-- Gap for visual separation -->
 <br><br>
 
