@@ -11,9 +11,9 @@
 
 
 ```bash
-<sub><sub>randika@portfolio:~$ echo "Ready to innovate! 🚀"█</sub></sub>
+<sub>randika@portfolio:~$ echo "Ready to innovate! 🚀"█</sub>
 ```
-> <sub><sub>*"Transforming complex data into intelligent solutions that drive real-world impact"*</sub></sub>
+> <sub>*"Transforming complex data into intelligent solutions that drive real-world impact"*</sub>
 
 </td>
 <td width="62%" align="center" valign="middle" style="border: none; padding: 0;">
