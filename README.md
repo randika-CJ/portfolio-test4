@@ -13,7 +13,7 @@ randika@portfolio:~$ whoami && echo "Welcome to my digital workspace!"
 <td align="left" width="60%">
 
 <!-- First Animation Set: Professional Roles -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=3000&color=00F5A0&vCenter=true&multiline=true&width=450&height=160&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Researcher;Computer+Vision+Specialist;Building+AI+Solutions+for+Real-World+Problems;Featured+Projects:;_________________________;⚡+CSM-SR;🎯+IntellijSense;🛠️+CodeCrafters)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=2000&pause=1500&color=00F5A0&vCenter=true&multiline=true&width=450&height=160&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Researcher;Computer+Vision+Specialist;Building+AI+Solutions+for+Real-World+Problems;Featured+Projects:;_________________________;⚡+CSM-SR;🎯+IntellijSense;🛠️+CodeCrafters)
 
 <!-- Gap for visual separation -->
 <br><br>
