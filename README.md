@@ -7,7 +7,7 @@
 <tr>
 <td width="38%" valign="middle" align="left" style="border: none; padding: 0;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=2000&pause=500&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=200&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+for+Real+World+Problems&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1000&pause=500&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=200&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+for+Real+World+Problems&repeat=true)](https://git.io/typing-svg)
 
 ```bash
 randika@portfolio:~$ echo "Ready to innovate! 🚀"█
